@@ -1,0 +1,9 @@
+rootProject.name = "tg-shop"
+
+includeBuild 'tg-shop-shop-config'
+includeBuild 'tg-shop-gateway'
+includeBuild 'tg-shop-server'
+includeBuild 'tg-shop-entity'
+includeBuild 'tg-shop-todo'
+includeBuild 'tg-shop-utils'
+includeBuild 'tg-shop-users'
