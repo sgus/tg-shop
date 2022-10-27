@@ -2,3 +2,4 @@ rootProject.name = 'tg-shop'
 
 
 includeBuild 'eureka-server'
+includeBuild 'tg-bot'
